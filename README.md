@@ -1,20 +1,53 @@
-<<<<<<< HEAD
-# React + Vite
+# Solar EV
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+Solar EV is a web application project that focuses on integrating solar energy concepts with electric vehicle (EV) technology. The objective of this project is to build a frontend solution that can support visualization, demonstration, or simulation of solar-powered electric vehicle concepts. This repository contains the source code built using modern web technologies including React and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> This project’s current commit includes the frontend structure and implementation. You can expand it further with backend services, APIs, or integrations in the future.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+This initial version of the project includes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# solar-ev
->>>>>>> 6f93ff2b25eeb43eeb601c13d8d6e82402e5c9f4
+- Frontend application setup using **React** and **Vite**
+- Clean folder structure for scalable development
+- Basic UI components (can be extended)
+- Configured development scripts for ease of use
+
+---
+
+## Technologies Used
+
+- **React** – UI library for building responsive components
+- **Vite** – Fast frontend build tool
+- **JavaScript** – Core language for development
+- **HTML / CSS** – Markup and styling
+
+---
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sravanKumar1211/solar-ev.git
+
+Navigate into the project directory:
+
+cd solar-ev
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+By G Savan Kumar
