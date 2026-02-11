@@ -1,5 +1,8 @@
 # Solar EV
 
+Live Demo  https://solar-project-green.vercel.app/
+By G Savan Kumar
+
 ## Project Overview
 
 Solar EV is a web application project that focuses on integrating solar energy concepts with electric vehicle (EV) technology. The objective of this project is to build a frontend solution that can support visualization, demonstration, or simulation of solar-powered electric vehicle concepts. This repository contains the source code built using modern web technologies including React and Vite.
